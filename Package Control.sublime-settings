@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Anaconda",
+		"ayu",
+		"Color Highlighter",
+		"Colorsublime",
+		"Compare Side-By-Side",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"Facebook Material Theme",
+		"Git",
+		"GitGutter",
+		"GitSavvy",
+		"HTML-CSS-JS Prettify",
+		"INI",
+		"Markdown Preview",
+		"Material Color Scheme",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"PHP Companion",
+		"PHP CS Fixer",
+		"PHP Faker Completions",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"Themr",
+		"Twig",
+		"Vue Syntax Highlight",
+		"wxapp"
+	]
+}
